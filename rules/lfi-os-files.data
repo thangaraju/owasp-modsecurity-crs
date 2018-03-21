@@ -12,7 +12,6 @@
 .my.cnf
 .mysql_history
 .nano_history
-.profile
 .psql_history
 .sqlite_history
 .ssh/authorized_keys
